@@ -17,7 +17,7 @@
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="UeN-Ha-FeA">
-                        <rect key="frame" x="18" y="18" width="410" height="308"/>
+                        <rect key="frame" x="8" y="18" width="430" height="323"/>
                         <animations/>
                         <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <color key="tintColor" red="0.77583194119999999" green="0.085581520179999995" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -28,9 +28,9 @@
                 </subviews>
                 <animations/>
                 <constraints>
-                    <constraint firstItem="UeN-Ha-FeA" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="10" id="B4e-lk-dSs"/>
+                    <constraint firstItem="UeN-Ha-FeA" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="B4e-lk-dSs"/>
                     <constraint firstItem="UeN-Ha-FeA" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="10" id="gVJ-9r-aM2"/>
-                    <constraint firstAttribute="trailingMargin" secondItem="UeN-Ha-FeA" secondAttribute="trailing" constant="10" id="oak-bU-AG6"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="UeN-Ha-FeA" secondAttribute="trailing" id="oak-bU-AG6"/>
                 </constraints>
             </tableViewCellContentView>
             <animations/>
